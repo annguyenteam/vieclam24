@@ -28,3 +28,5 @@ You can change the settings of your site easily.
 3. You can now change your color scheme by selecting one of the predefined ones. Choose a color scheme you want from Base Color Scheme dropdown. You can preview the change in the Customizer.
 4. Should you wish to create your own color scheme or modify an existing one, you can by selecting the colors for each area listed.
 5. Once you are happy with your color changes you can click save and your changes will be reflected on your live site.
+
+Updated 2025
